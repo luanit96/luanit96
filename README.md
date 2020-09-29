@@ -1,7 +1,6 @@
 ### I am Luan 😄
 
-| ![1](https://i.memeful.com/media/post/jRLkW4M_700wa_0.gif) | ![2](https://38.media.tumblr.com/01734499828e0000ff6b007c38b00cd4/tumblr_nwo1jvD8TP1tuetcvo1_400.gif)
-| --- | --- | --- |
+![banner](https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/67623922_105917740759332_8124676835117105152_o.jpg?_nc_cat=110&_nc_sid=e3f864&_nc_ohc=maiGZEV0wWYAX9F4Ept&_nc_ht=scontent.fsgn2-6.fna&oh=b852fb707b420d0bc168ce1721259eb9&oe=5F99BDBC)
 
 <!--
 **LuanIT96/luanit96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
