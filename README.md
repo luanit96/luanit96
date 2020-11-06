@@ -1,6 +1,6 @@
 ### I am Luan 😄😄😄
 
-![banner](https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.0-9/67623922_105917740759332_8124676835117105152_o.jpg?_nc_cat=110&_nc_sid=e3f864&_nc_ohc=maiGZEV0wWYAX9F4Ept&_nc_ht=scontent.fsgn2-6.fna&oh=b852fb707b420d0bc168ce1721259eb9&oe=5F99BDBC)
+![banner](https://scontent.fsgn2-6.fna.fbcdn.net/v/t31.0-0/p640x640/30073009_198506060878872_773423331192499057_o.jpg?_nc_cat=100&ccb=2&_nc_sid=e3f864&_nc_ohc=_IzG_Ep-_OAAX8DQmS9&_nc_ht=scontent.fsgn2-6.fna&tp=6&oh=cb9d8d0e1674c31037face67b6f0e05c&oe=5FC9D4B2)
 
 <!--
 **LuanIT96/luanit96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
