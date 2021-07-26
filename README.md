@@ -1,6 +1,6 @@
 ### Hi, I am Luan 😄😄😄
 
-![banner](https://scontent.fdad3-2.fna.fbcdn.net/v/t1.6435-9/67498551_2447260975594915_7899502054953975808_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=e3f864&_nc_ohc=wieOH_vbvzwAX--6_-g&_nc_ht=scontent.fdad3-2.fna&oh=36ec4abad40960f165d1bf456fe78c6f&oe=612358FE)
+![banner](https://thanhluan.cf/images/banner.jpg)
 
 <!--
 **LuanIT96/luanit96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
