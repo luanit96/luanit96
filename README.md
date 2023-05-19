@@ -1,1 +1,1 @@
-### Hi, I am Luan 😄😄😄
+### Hi, I am Luan
